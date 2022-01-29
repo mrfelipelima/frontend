@@ -1,7 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-    baseURL: 'https://labgefa-stack.herokuapp.com'
+  baseURL: "https://labgefabox-backend.herokuapp.com/",
 });
 
 export default api;
