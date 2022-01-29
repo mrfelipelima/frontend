@@ -1,3 +1,24 @@
+# mrfelipelima/frontend
+
+Esse foi o primeiro app que desenvolvi usando o ReactJS.
+
+O App se trata de um armazenador de arquivos, tipo um Dropbox ou Google Drive, só que bem simples.
+
+É o resultado do terceiro dia de encontro da semana OmniStack da RocketSeat, que aconteceu em abril de 2019, onde o [Diego Fernandes](https://github.com/diego3g), nos ensinou em uma semana a construir uma aplicação com backend, app web e mobile.
+
+Como no tempo eu estava estudando programação para fazer um projeto da faculdade, e eu precisava apresentar os resultados nas reuniões do grupo de pesquisa, eu fiz algumas modificações no nome e visual do app para refletir as informações do LabGEFA. Contei essa história [no meu blog](https://mrfelipelima.wordpress.com/2022/01/28/como-cheguei-na-programacao/).
+
+## Tecnologias utilizadas
+
+- JavaScript
+- ReactJS
+- NodeJS
+- Axios
+
+## Backend
+
+O backend dessa aplicação também foi construído por mim e está disponível nesse repositório: [https://github.com/mrfelipelima/labgefabox-backend](https://github.com/mrfelipelima/labgefabox-backend)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
